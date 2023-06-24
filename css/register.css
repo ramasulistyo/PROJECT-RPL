@@ -3,10 +3,9 @@
   box-sizing: border-box;
 }
 .sign {
-  background: #ffffff;
+  
   width: 1512px;
   height: 982px;
-  position: relative;
   overflow: hidden;
 }
 .footer {
@@ -367,7 +366,7 @@
 .sign-in2 {
   color: #ffffff;
   text-align: left;
-  font: 700 15px "Roboto", sans-serif;
+  font: 700 px "Roboto", sans-serif;
   position: relative;
 }
 .aerrow {

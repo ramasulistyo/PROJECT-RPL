@@ -4,11 +4,11 @@
   box-sizing: border-box;
 }
 .login {
-  background: #ffffff;
+
   width: 1512px;
   height: 982px;
-  position: relative;
   overflow: hidden;
+
 }
 .footer {
   width: 1512px;
@@ -28,6 +28,9 @@
   top: 293.68px;
   overflow: visible;
 }
+
+
+
 .utility-pages {
   display: flex;
   flex-direction: column;
@@ -231,6 +234,15 @@
   font: 700 15px "Roboto", sans-serif;
   position: relative;
 }
+.contact {
+  color: #525C60;
+  text-align: right;
+  font-size: 12px;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: 165%;
+}
+
 .bg-login {
   width: 1512px;
   height: 689px;
