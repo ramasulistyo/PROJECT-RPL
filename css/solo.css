@@ -1,20 +1,20 @@
-.home,
-.home * {
+.solo-region,
+.solo-region * {
   box-sizing: border-box;
 }
-.home {
+.solo-region {
   background: #ffffff;
   width: 1512px;
-  height: 3315px;
+  height: 1211px;
   position: relative;
   overflow: hidden;
 }
 .footer {
   width: 1512px;
-  height: 279px;
+  height: 294px;
   position: absolute;
   left: 0px;
-  top: 3034px;
+  top: 910px;
   overflow: hidden;
 }
 .footer2 {
@@ -252,10 +252,10 @@
 }
 .main {
   width: 1512px;
-  height: 2426px;
+  height: 1076px;
   position: absolute;
   left: 0px;
-  top: 608px;
+  top: 128px;
   overflow: hidden;
 }
 .grid {
@@ -266,7 +266,7 @@
   justify-content: flex-start;
   position: absolute;
   left: 0px;
-  top: 70px;
+  top: 43px;
 }
 .frame {
   flex-shrink: 0;
@@ -288,93 +288,6 @@
   width: 350px;
   height: 425px;
   position: absolute;
-  left: 1062px;
-  top: 60px;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-}
-.now-playing-festival {
-  color: #000000;
-  text-align: left;
-  font: 800 20px "Roboto", sans-serif;
-  position: absolute;
-  left: 1087px;
-  top: 367.89px;
-  width: 293px;
-  height: 21.72px;
-}
-.rp-300-000-600-000 {
-  color: #efd372;
-  text-align: right;
-  font: 800 25px "Roboto", sans-serif;
-  position: absolute;
-  left: 1106px;
-  top: 430px;
-  width: 295px;
-  height: 28px;
-}
-.jl-brigadir-katamso-bandung {
-  color: #525c60;
-  text-align: left;
-  font: 400 15px/165.4% "Open Sans", sans-serif;
-  position: absolute;
-  left: 1087px;
-  top: 395.28px;
-  width: 270px;
-  height: 23.61px;
-}
-.background {
-  background: #edf2f6;
-  border-radius: 30px;
-  width: 300px;
-  height: 283.33px;
-  position: absolute;
-  left: 1087px;
-  top: 77.94px;
-}
-.rounded-rectangle {
-  background: #ebf0f4;
-  border-radius: 30px;
-  width: 300px;
-  height: 283.33px;
-  position: absolute;
-  left: 1087px;
-  top: 77.94px;
-}
-.npf {
-  width: 300px;
-  height: 283.33px;
-  position: absolute;
-  left: 1087px;
-  top: 77.94px;
-}
-.tag {
-  background: #274c5b;
-  border-radius: 8px;
-  padding: 5px 12px 6px 12px;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  align-items: center;
-  justify-content: center;
-  position: absolute;
-  left: 1284px;
-  top: 87px;
-}
-._3-12-mar {
-  color: #ffffff;
-  text-align: center;
-  font: 600 15px "Open Sans", sans-serif;
-  position: relative;
-}
-.rectangle-2982 {
-  background: #ffffff;
-  border-radius: 20px;
-  border-style: solid;
-  border-color: #e0e0e0;
-  border-width: 1px;
-  width: 350px;
-  height: 425px;
-  position: absolute;
   left: 100px;
   top: 60px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
@@ -386,7 +299,7 @@
   position: absolute;
   left: 125px;
   top: 367.89px;
-  width: 286px;
+  width: 280px;
   height: 21.72px;
 }
 .rp-100-000 {
@@ -394,9 +307,9 @@
   text-align: left;
   font: 800 25px "Roboto", sans-serif;
   position: absolute;
-  left: 264px;
+  left: 272px;
   top: 430.22px;
-  width: 167px;
+  width: 160px;
   height: 27.39px;
 }
 .de-tjolomadoe-solo {
@@ -409,7 +322,7 @@
   width: 270px;
   height: 23.61px;
 }
-.background2 {
+.background {
   background: #edf2f6;
   border-radius: 30px;
   width: 300px;
@@ -418,7 +331,7 @@
   left: 125px;
   top: 77.94px;
 }
-.rounded-rectangle2 {
+.rounded-rectangle {
   background: #ebf0f4;
   border-radius: 30px;
   width: 300px;
@@ -434,7 +347,7 @@
   left: 125px;
   top: 78px;
 }
-.tag2 {
+.tag {
   background: #274c5b;
   border-radius: 8px;
   padding: 5px 12px 6px 12px;
@@ -453,7 +366,7 @@
   font: 600 15px "Open Sans", sans-serif;
   position: relative;
 }
-.rectangle-2983 {
+.rectangle-2982 {
   background: #ffffff;
   border-radius: 20px;
   border-style: solid;
@@ -473,7 +386,7 @@
   position: absolute;
   left: 606px;
   top: 367.89px;
-  width: 265px;
+  width: 260px;
   height: 21.72px;
 }
 .rp-250-000 {
@@ -481,9 +394,9 @@
   text-align: left;
   font: 800 25px "Roboto", sans-serif;
   position: absolute;
-  left: 749px;
+  left: 753px;
   top: 430.22px;
-  width: 165px;
+  width: 170px;
   height: 27.39px;
 }
 .lokananta-records-solo {
@@ -496,7 +409,7 @@
   width: 270px;
   height: 23.61px;
 }
-.background3 {
+.background2 {
   background: #edf2f6;
   border-radius: 30px;
   width: 300px;
@@ -505,7 +418,7 @@
   left: 606px;
   top: 77.94px;
 }
-.rounded-rectangle3 {
+.rounded-rectangle2 {
   background: #ebf0f4;
   border-radius: 30px;
   width: 300px;
@@ -521,7 +434,7 @@
   left: 606px;
   top: 77.94px;
 }
-.tag3 {
+.tag2 {
   background: #274c5b;
   border-radius: 8px;
   padding: 5px 12px 6px 12px;
@@ -540,21 +453,27 @@
   font: 600 15px "Open Sans", sans-serif;
   position: relative;
 }
-.frame2 {
-  flex-shrink: 0;
-  width: 1512px;
-  height: 525px;
-  position: relative;
-  overflow: hidden;
+.rectangle-2983 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 1px;
+  width: 350px;
+  height: 425px;
+  position: absolute;
+  left: 1062px;
+  top: 60px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 .artefac-uns {
   color: #000000;
   text-align: left;
   font: 800 20px "Roboto", sans-serif;
   position: absolute;
-  left: 125px;
+  left: 1087px;
   top: 367.89px;
-  width: 170px;
+  width: 160px;
   height: 21.72px;
 }
 .rp-130-000 {
@@ -562,19 +481,47 @@
   text-align: left;
   font: 800 25px "Roboto", sans-serif;
   position: absolute;
-  left: 270px;
+  left: 1234px;
   top: 430.22px;
-  width: 157px;
+  width: 170px;
   height: 27.39px;
+}
+.de-tjolomadoe-solo2 {
+  color: #525c60;
+  text-align: left;
+  font: 400 15px/165.4% "Open Sans", sans-serif;
+  position: absolute;
+  left: 1087px;
+  top: 395.28px;
+  width: 270px;
+  height: 23.61px;
+}
+.background3 {
+  background: #edf2f6;
+  border-radius: 30px;
+  width: 300px;
+  height: 283.33px;
+  position: absolute;
+  left: 1087px;
+  top: 77.94px;
+}
+.rounded-rectangle3 {
+  background: #ebf0f4;
+  border-radius: 30px;
+  width: 300px;
+  height: 283.33px;
+  position: absolute;
+  left: 1087px;
+  top: 77.94px;
 }
 .artefac {
   width: 300px;
   height: 283.33px;
   position: absolute;
-  left: 125px;
+  left: 1087px;
   top: 77.94px;
 }
-.tag4 {
+.tag3 {
   background: #274c5b;
   border-radius: 8px;
   padding: 5px 12px 6px 12px;
@@ -584,8 +531,8 @@
   align-items: center;
   justify-content: center;
   position: absolute;
-  left: 336px;
-  top: 91px;
+  left: 1298px;
+  top: 94px;
 }
 ._18-mar {
   color: #ffffff;
@@ -593,368 +540,18 @@
   font: 600 15px "Open Sans", sans-serif;
   position: relative;
 }
-.sound-of-downton {
-  color: #000000;
-  text-align: left;
-  font: 800 20px "Roboto", sans-serif;
-  position: absolute;
-  left: 606px;
-  top: 367.89px;
-  width: 250px;
-  height: 21.72px;
-}
-.lap-prpp-semarang {
-  color: #525c60;
-  text-align: left;
-  font: 400 15px/165.4% "Open Sans", sans-serif;
-  position: absolute;
-  left: 606px;
-  top: 395.28px;
-  width: 270px;
-  height: 23.61px;
-}
-.sod {
-  width: 300px;
-  height: 283.33px;
-  position: absolute;
-  left: 606px;
-  top: 77.94px;
-}
-.tag5 {
-  background: #274c5b;
-  border-radius: 8px;
-  padding: 5px 12px 6px 12px;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  align-items: center;
-  justify-content: center;
-  position: absolute;
-  left: 800px;
-  top: 91px;
-}
-._18-19-feb {
-  color: #ffffff;
-  text-align: center;
-  font: 600 15px "Open Sans", sans-serif;
-  position: relative;
-}
-.we-are-yours-festival {
-  color: #000000;
-  text-align: left;
-  font: 800 20px "Roboto", sans-serif;
-  position: absolute;
-  left: 1087px;
-  top: 367.89px;
-  width: 290px;
-  height: 21.72px;
-}
-.rp-150-000 {
-  color: #efd372;
-  text-align: left;
-  font: 800 25px "Roboto", sans-serif;
-  position: absolute;
-  left: 1227px;
-  top: 430.22px;
-  width: 160px;
-  height: 27.39px;
-}
-.sam-poo-kong-semarang {
-  color: #525c60;
-  text-align: left;
-  font: 400 15px/165.4% "Open Sans", sans-serif;
-  position: absolute;
-  left: 1087px;
-  top: 395.28px;
-  width: 270px;
-  height: 23.61px;
-}
-.weareyours {
-  width: 300px;
-  height: 283.33px;
-  position: absolute;
-  left: 1087px;
-  top: 77.94px;
-}
-.tag6 {
-  background: #274c5b;
-  border-radius: 8px;
-  padding: 5px 12px 6px 12px;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  align-items: center;
-  justify-content: center;
-  position: absolute;
-  left: 1304px;
-  top: 91px;
-}
-._18-feb {
-  color: #ffffff;
-  text-align: center;
-  font: 600 15px "Open Sans", sans-serif;
-  position: relative;
-}
-.unfest-2023 {
-  color: #000000;
-  text-align: left;
-  font: 800 20px "Roboto", sans-serif;
-  position: absolute;
-  left: 125px;
-  top: 367.89px;
-  width: 160px;
-  height: 21.72px;
-}
-.rp-125-000 {
-  color: #efd372;
-  text-align: left;
-  font: 800 25px "Roboto", sans-serif;
-  position: absolute;
-  left: 266px;
-  top: 430.22px;
-  width: 160px;
-  height: 27.39px;
-}
-.stadion-diponegoro-semarang {
-  color: #525c60;
-  text-align: left;
-  font: 400 15px/165.4% "Open Sans", sans-serif;
-  position: absolute;
-  left: 125px;
-  top: 395.28px;
-  width: 270px;
-  height: 23.61px;
-}
-.unfest {
-  width: 300px;
-  height: 283.33px;
-  position: absolute;
-  left: 125px;
-  top: 77.94px;
-}
-.tag7 {
-  background: #274c5b;
-  border-radius: 8px;
-  padding: 5px 12px 6px 12px;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  align-items: center;
-  justify-content: center;
-  position: absolute;
-  left: 342px;
-  top: 94px;
-}
-._12-mar {
-  color: #ffffff;
-  text-align: center;
-  font: 600 15px "Open Sans", sans-serif;
-  position: relative;
-}
-.streo-2023 {
-  color: #000000;
-  text-align: left;
-  font: 800 20px "Roboto", sans-serif;
-  position: absolute;
-  left: 606px;
-  top: 367.89px;
-  width: 216px;
-  height: 21.72px;
-}
-.rp-50-000 {
-  color: #efd372;
-  text-align: left;
-  font: 800 25px "Roboto", sans-serif;
-  position: absolute;
-  left: 773px;
-  top: 430.22px;
-  width: 147px;
-  height: 27.39px;
-}
-.alpha-bravo-yogyakarta {
-  color: #525c60;
-  text-align: left;
-  font: 400 15px/165.4% "Open Sans", sans-serif;
-  position: absolute;
-  left: 606px;
-  top: 395.28px;
-  width: 270px;
-  height: 23.61px;
-}
-.crast {
-  width: 300px;
-  height: 283.33px;
-  position: absolute;
-  left: 606px;
-  top: 77.94px;
-}
-.tag8 {
-  background: #274c5b;
-  border-radius: 8px;
-  padding: 5px 12px 6px 12px;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  align-items: center;
-  justify-content: center;
-  position: absolute;
-  left: 832px;
-  top: 94px;
-}
-._4-mar {
-  color: #ffffff;
-  text-align: center;
-  font: 600 15px "Open Sans", sans-serif;
-  position: relative;
-}
-.vocanight {
-  color: #000000;
-  text-align: left;
-  font: 800 20px "Roboto", sans-serif;
-  position: absolute;
-  left: 1087px;
-  top: 367.89px;
-  width: 114px;
-  height: 21.72px;
-}
-.lap-prpp-semarang2 {
-  color: #525c60;
-  text-align: left;
-  font: 400 15px/165.4% "Open Sans", sans-serif;
-  position: absolute;
-  left: 1087px;
-  top: 395.28px;
-  width: 270px;
-  height: 23.61px;
-}
-.voca {
-  width: 300px;
-  height: 283.33px;
-  position: absolute;
-  left: 1087px;
-  top: 77.94px;
-}
-.tag9 {
-  background: #274c5b;
-  border-radius: 8px;
-  padding: 5px 12px 6px 12px;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  align-items: center;
-  justify-content: center;
-  position: absolute;
-  left: 1299px;
-  top: 94px;
-}
-._19-mar {
-  color: #ffffff;
-  text-align: center;
-  font: 600 15px "Open Sans", sans-serif;
-  position: relative;
-}
-.bona-fide-project {
-  color: #000000;
-  text-align: left;
-  font: 800 20px "Roboto", sans-serif;
-  position: absolute;
-  left: 125px;
-  top: 368px;
-  width: 222px;
-  height: 22px;
-}
-.gor-uny-yogyakarta {
-  color: #525c60;
-  text-align: left;
-  font: 400 15px/165.4% "Open Sans", sans-serif;
-  position: absolute;
-  left: 125px;
-  top: 395.28px;
-  width: 270px;
-  height: 23.61px;
-}
-.poster-full-4-x-4-1 {
-  width: 300px;
-  height: 335px;
-  position: absolute;
-  left: 125px;
-  top: 78px;
-}
-.tag10 {
-  background: #274c5b;
-  border-radius: 8px;
-  padding: 5px 12px 6px 12px;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  align-items: center;
-  justify-content: center;
-  position: absolute;
-  left: 335px;
-  top: 94px;
-}
-._22-des {
-  color: #ffffff;
-  text-align: center;
-  font: 600 15px "Open Sans", sans-serif;
-  position: relative;
-}
-.find-your-favorite-event-and-lets-have-fun {
-  color: #525c60;
-  text-align: left;
-  font: 400 15px/165.4% "Open Sans", sans-serif;
-  position: absolute;
-  left: 100px;
-  top: 62px;
-  width: 543px;
-}
-.popular-event {
+.solo {
   color: #274c5b;
   text-align: left;
   font: 800 30px "Roboto", sans-serif;
   position: absolute;
   left: 100px;
-  top: 27px;
-}
-.foto {
-  width: 1301px;
-  height: 363px;
-  position: absolute;
-  left: 63px;
-  top: 158px;
-}
-.soegi-home {
-  width: 585px;
-  height: 363px;
-  position: absolute;
-  left: 604px;
-  top: 0px;
-}
-.audiance-home {
-  width: 585px;
-  height: 363px;
-  position: absolute;
-  left: 1208px;
-  top: 2px;
-}
-.pamungkas-home {
-  width: 585px;
-  height: 363px;
-  position: absolute;
-  left: 1812px;
-  top: 0px;
-}
-.kunto-home {
-  width: 585px;
-  height: 363px;
-  position: absolute;
-  left: 0px;
-  top: 0px;
+  top: 8px;
 }
 .search-region {
   background: #fafafa;
   border-radius: 36px;
-  padding: 10px 10px 10px 10px;
+  padding: 10px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -962,7 +559,7 @@
   width: 400px;
   height: 60px;
   position: absolute;
-  left: 1048px;
+  left: 1049px;
   top: 41px;
 }
 .region {
@@ -987,7 +584,7 @@
   width: 933px;
   height: 179px;
   position: absolute;
-  left: 63px;
+  left: 64px;
   top: -43px;
 }
 .header2 {
@@ -1012,7 +609,7 @@
   width: 1029px;
   position: relative;
 }
-.socgigs {
+.socgigs-logo-22 {
   flex-shrink: 0;
   width: 250px;
   height: 83.65px;
@@ -1024,7 +621,7 @@
   height: 18px;
   position: static;
 }
-.home2 {
+.home {
   color: #274c5b;
   text-align: left;
   font: 700 15px "Roboto", sans-serif;
